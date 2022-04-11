@@ -1,4 +1,4 @@
-/* DOMContentLoaded */
+/* when page refreshed */
 document.addEventListener("DOMContentLoaded", main);
 
 
